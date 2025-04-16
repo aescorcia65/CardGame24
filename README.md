@@ -8,6 +8,6 @@ A JavaFX-based card game where players create a mathematical expression using fo
 
 - Java 11 or higher
 - JavaFX SDK installed and properly configured
-- Maven or Gradle (depending on your build tool)
+- Maven
 
 ---
